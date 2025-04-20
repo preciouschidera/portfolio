@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DevOps Portfolio - Precious Chidera Chukwudi</title>
+<style>
+body {
+margin: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: linear-gradient(to right, #6a0dad, #999999);
+color: #f0f0f0;
+}
+
+.header {
+background-color: #4b0082;
+color: white;
+padding: 30px;
+text-align: center;
+}
+
+.header h1 {
+margin: 0;
+font-size: 2.5em;
+}
+
+.container {
+max-width: 800px;
+margin: 30px auto;
+background-color: #f8f8f8;
+padding: 40px;
+border-radius: 15px;
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+color: #333;
+}
+
+h2 {
+color: #6a0dad;
+border-bottom: 2px solid #d1c4e9;
+padding-bottom: 5px;
+}
+
+p, ul {
+color: #444;
+line-height: 1.6;
+}
+
+.button {
+display: inline-block;
+background-color: #6a0dad;
+color: white;
+padding: 10px 20px;
+margin: 10px 0;
+border: none;
+border-radius: 8px;
+text-decoration: none;
+font-weight: bold;
+transition: background 0.3s ease;
+}
+
+.button:hover {
+background-color: #4b0082;
+}
+
+.contact {
+margin-top: 40px;
+}
+
+.contact a {
+color: #6a0dad;
+text-decoration: none;
+font-weight: bold;
+}
+
+.contact a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>Precious Chidera Chukwudi</h1>
+</div>
+
+<div class="container">
+<h2>About Me</h2>
+<p>I’m a passionate and detail-oriented DevOps engineer who thrives on automation, deployments, and continous delivery of reliable CI/CD pipelines. With hands-on experience in tools like GitHub, Jenkins, Ansible, AWS, and more.</p>
+
+<h2> Skills </h2>
+<ul>
+<li>GitHub Actions 
+<li>CI/CD with Jenkins</li>
+<li>Ansible</li>
+<li>Code quality analysis with sonarqube</li>
+<li>Cloud platforms AWS (EC2 ,S3, IAM, VPC)</li>
+</li>Linux (ubuntu), PostgreSQL, Flask, Node.js, VS code.</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+<li><strong>CI/CD Pipeline:</strong> Build and deploy the Number guess game using  CI/CD tools to ensure automation, quality control and effective deployment integrating Apache Tomcat and SonarQube.</li>
+<li><strong>Flask + Node.js Deployment:</strong> Dual-app architecture deployed with Docker, Ansible, and Jenkins on AWS EC2.
+
+
+<h2>Certifcations</h2>
+<ul>
+<li>AWS Certifcations</li>
+</ul>
+
+
+<h2 class="contact">Contact Me</h2>
+<p>Email: <a href="derachukwudi08@gmail.com">derachukwudi08@gmail.com</a></p>
+<p>GitHub: <a href="https://github.com/preciouschidera" target="_blank">github.com/preciouschidera</a></p>
+<p>LinkedIn: <a href="https://linkedin.com/in/PreciousChideraChukwudi" target="_blank">linkedin.com/in/PreciousChideraChukwudi</a></p>
+</div>
+
+<div class="footer">
+<p>&copy; 2025 Precious Chidera Chukwudi. All rights reserved.</p>
+</div>
+
+</body>
+</html>
